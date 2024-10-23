@@ -12,6 +12,6 @@ Timeline:
 
 - 2020-12-08 GitHub release: <https://github.com/nccgroup/HTTPSignatures>
 - 2020-12-08 Blog post: <https://www.nccgroup.com/us/research-blog/tool-release-httpsignatures-a-burp-suite-extension-implementing-http-signatures/>
-- 2020-07-04 Discovered a lack of server certificate validation issue in the Nextcloud Social App: [CVE-2020-8279](https://hackerone.com/reports/915585)
 - 2020-07-12 Discovered an access control issue in the Nextcloud Social App: [CVE-2020-8278](https://hackerone.com/reports/921717)
+- 2020-07-04 Discovered a lack of server certificate validation issue in the Nextcloud Social App: [CVE-2020-8279](https://hackerone.com/reports/915585)
 

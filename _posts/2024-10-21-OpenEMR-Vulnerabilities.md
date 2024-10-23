@@ -3,7 +3,7 @@ layout: post
 title: OpenEMR Security Vulnerabilities
 ---
 
-During research on [OpenEMR](https://github.com/openemr/openemr), I discovered the following authorization and cross-site scripting (XSS) security vulnerabilities resulting in 11 CVEs:
+During research on [OpenEMR](https://github.com/openemr/openemr), a free and open source electronic health records and medical practice management application, I discovered the following authorization and cross-site scripting (XSS) security vulnerabilities resulting in 11 CVEs:
 
 - CVE-2024-46021 [Stored XSS in MedEx Username](#CVE-2024-46021)
 - CVE-2024-46022 [Stored XSS in Forms Administration Nicknames](#CVE-2024-46022)
@@ -19,10 +19,7 @@ During research on [OpenEMR](https://github.com/openemr/openemr), I discovered t
 
 All issues have been fixed in [version 7.0.2 Patch 1](https://community.open-emr.org/t/openemr-7-0-2-patch-1-has-been-released/22695).
 
-Note that the CVEs have been reserved but not published yet.
-
 ---
-
 
 
 
